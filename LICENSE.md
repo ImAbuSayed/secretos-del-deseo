@@ -1,6 +1,6 @@
 # License
 
-**Secretos del deseo**
+**Secretos del deseo, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

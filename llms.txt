@@ -1,4 +1,4 @@
-# Secretos del deseo
+# Secretos del deseo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Secretos del deseo |
+| **Title** | Secretos del deseo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-del-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Secretos del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-del-deseo/) |
+| **Get License** | [Get a Licensing Quote for Secretos del deseo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-del-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la disco tiembla cuando apagan la luz
+> Nadie en Barcelona tiene ese porte, solo tú
+> Con la combi completa y actitud de boss
+> Me tienes envuelto, perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b71d43a92a46dcf863709f8769afad67c7c5008ceb1e6f2c9c42ba910c53b963` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
